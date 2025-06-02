@@ -1,3 +1,4 @@
 # Ignore specific directory
 target/
 .idea/
+.DS_Store
